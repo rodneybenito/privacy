@@ -12,13 +12,13 @@ Rodney Benito Ads is run by Rodney Benito, an independent Amazon advertising con
 ## What this application does
 It is a private advertising management tool. It is used only by Rodney Benito Ads, for the Amazon sellers whose advertising it manages, to:
 - read advertising and sales performance data, and prepare reports and recommendations
-- make changes to their advertising, such as adjusting bids and budgets, adding negative keywords, and creating or pausing campaigns
+- make changes to their Sponsored Products, Sponsored Brands and Sponsored Display advertising, such as adjusting bids and budgets, adding keywords, targets and negatives, creating or pausing campaigns, and editing ad creatives
 
 Every change is made deliberately by me as part of the advertising work the account owner has asked me to do. The tool does not change product listings, prices, inventory or orders. It is not offered to the public.
 
 ## What data it accesses
 Only for Amazon accounts whose owners have authorized it:
-- Amazon Ads data: Data from Amazon Advertising Reports e.g. campaigns, ad groups, keywords, targets, bids, budgets, performance reports, etc.
+- Amazon Ads data: Data from Amazon Advertising Reports e.g. campaigns, ad groups, ads and creatives, keywords, targets, bids, budgets, portfolios, performance reports, etc.
 - Amazon Seller Central data: Data from Amazon Seller Central Reports e.g sales and traffic by product, and fee, refund and settlement totals, etc.
 
 It does not request or store Amazon customers' personal information (such as buyer names, addresses or contact details).
