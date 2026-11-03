@@ -2,15 +2,15 @@
 title: Privacy Notice
 ---
 
-# Privacy Notice — Rodney Benito Ads
+# Privacy Notice — Showmyrise Advertising Agency
 
-Last updated: 2026-10-20
+Last updated: 2026-11-03
 
 ## Who we are
-Rodney Benito Ads is run by Rodney Benito, an independent Amazon advertising consultant. Contact: rodney@rodneybenitoads.com. Website: [rodneybenitoads.com](https://rodneybenitoads.com)
+Showmyrise Advertising Agency is an independent Amazon advertising agency run by Rodney Benito. Contact: rodney@showmyrise.com. Website: [showmyrise.com](https://showmyrise.com)
 
 ## What this application does
-It is a private advertising management tool. It is used only by Rodney Benito Ads, for the Amazon sellers whose advertising it manages, to:
+It is a private advertising management tool. It is used only by Showmyrise Advertising Agency, for the Amazon sellers whose advertising it manages, to:
 - read advertising and sales performance data, and prepare reports and recommendations
 - make changes to their Sponsored Products, Sponsored Brands and Sponsored Display advertising, such as adjusting bids and budgets, adding keywords, targets and negatives, creating or pausing campaigns, and editing ad creatives
 
@@ -35,11 +35,11 @@ I use an AI assistant (Claude, by Anthropic) to help analyse reports. Report dat
 For as long as I manage advertising for the account. When that ends, or when the account owner asks, I delete the account's data and credentials within **30 days**.
 
 ## Revoking access
-Account owners can revoke this application's access at any time through their Amazon account settings (for Seller Central: Apps and Services → Manage Your Apps), or by emailing rodney@rodneybenitoads.com.
+Account owners can revoke this application's access at any time through their Amazon account settings (for Seller Central: Apps and Services → Manage Your Apps), or by emailing rodney@showmyrise.com.
 
 ## Changes
 If this notice changes, the "Last updated" date above will change too.
 
 ---
 
-<small>Rodney Benito Ads is an independent business and is not affiliated with, endorsed by or sponsored by Amazon. Amazon and Amazon Ads are trademarks of Amazon.com, Inc. or its affiliates.</small>
+<small>Showmyrise Advertising Agency is an independent business and is not affiliated with, endorsed by or sponsored by Amazon. Amazon and Amazon Ads are trademarks of Amazon.com, Inc. or its affiliates.</small>
