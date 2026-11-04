@@ -7,7 +7,7 @@ title: Privacy Notice
 Last updated: 2026-11-03
 
 ## Who we are
-Showmyrise Advertising Agency is an independent Amazon advertising agency run by Rodney Benito. Contact: rodney@showmyrise.com. Website: [showmyrise.com](https://showmyrise.com)
+Showmyrise Advertising Agency is an independent advertising agency run by Rodney Benito. Contact: rodney@showmyrise.com. Website: [showmyrise.com](https://showmyrise.com)
 
 ## What this application does
 It is a private advertising management tool. It is used only by Showmyrise Advertising Agency, for the Amazon sellers whose advertising it audits or manages, to:
