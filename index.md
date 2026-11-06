@@ -4,7 +4,7 @@ title: Privacy Notice
 
 # Privacy Notice — Showmyrise Advertising Agency
 
-Last updated: 2026-11-03
+Last updated: 2026-11-06
 
 ## Who we are
 Showmyrise Advertising Agency is an independent advertising agency run by Rodney Benito. Contact: rodney@showmyrise.com. Website: [showmyrise.com](https://showmyrise.com)
@@ -27,7 +27,7 @@ It does not request or store Amazon customers' personal information (such as buy
 Only to audit or manage advertising for, and report to, the account owner who authorized access. It is not used for any other purpose and is never sold.
 
 ## Where the data is stored and who processes it
-On my own computer, which uses full-disk encryption. Access credentials are stored in the computer's encrypted system keychain, with a backup copy in an end-to-end encrypted password manager (Proton Pass). Reports and working files are backed up to end-to-end encrypted cloud storage (Proton Drive).
+On my own computer, which uses full-disk encryption. Access credentials are stored in the computer's encrypted system keychain, with a backup copy in an end-to-end encrypted password manager (Proton Pass). Reports and working files are backed up to end-to-end encrypted cloud storage (Proton Drive). Reports are emailed only to the account owner, through my business email provider (Zoho Mail).
 
 I use an AI assistant (Claude, by Anthropic) to help analyse reports. Report data I give it is processed under Anthropic's terms, with the setting that allows it to be used for training AI models switched off. The data is not shared with anyone else.
 
